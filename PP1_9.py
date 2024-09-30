@@ -16,7 +16,6 @@ def q2():
   print(word.lower())
   print(word.upper())
 
-
 def q3(): 
   #Write Assignment code here
   word = input("Input a word that is at least 5 letters long: ")
