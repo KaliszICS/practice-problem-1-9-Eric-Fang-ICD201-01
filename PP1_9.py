@@ -1,5 +1,8 @@
 '''
-  Lesson 
+    Lesson: String Manipulation
+    Author: Eric Fang
+    Date Created: September 30th, 2024
+    Date Last Modified: September 30th, 2024
 '''
 
 def q1(): 
